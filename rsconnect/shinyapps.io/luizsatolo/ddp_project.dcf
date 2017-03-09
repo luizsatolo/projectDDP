@@ -1,0 +1,11 @@
+name: ddp_project
+title:
+account: luizsatolo
+server: shinyapps.io
+appId: 162437
+bundleId: 739952
+url: https://luizsatolo.shinyapps.io/ddp_project/
+when: 1489063028.99229
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: helpers.R
